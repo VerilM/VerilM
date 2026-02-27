@@ -1,6 +1,7 @@
 # About me 👋
 
-- 🌱 I’m currently learning data structures and algorithms in C++
-- 📫 Email: veril.modi@gmail.com
+- 🌱 Learning: Java and Database Fundamentals
+- 🚀 Projects: Pacman
 - 📈 Future plans: Participate in an AI snake competition 
-- ⚡ Hobbies: Gaming & TCG addict
+- ⚡ Hobbies: Gaming & Gundam
+- 📫 Email: veril.modi@gmail.com
